@@ -6,6 +6,6 @@
 
  I am also working on creating an R implementation of the algorithm due to the limitations & cost of working with SAS.
 
- Data used in this analysis was obtained from the New Jersey Department of Education and is contained in the /data folder.
+ Data used in this analysis was obtained from the New Jersey Department of Education and is contained in the /data folder. A table of equalized valuations for 2020 was obtained from the New Jersey Division of Taxation.
 
  This is a work in progress.
